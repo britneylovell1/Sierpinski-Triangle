@@ -1,6 +1,3 @@
-#Draw a Sierpinski Triangle with turtle
-
-
 import turtle
 
 window = turtle.Screen()
@@ -31,5 +28,4 @@ def draw_sierpinski(length,depth):
         nate.right(60)
 
 draw_sierpinski(200,3)
-
 window.exitonclick()
