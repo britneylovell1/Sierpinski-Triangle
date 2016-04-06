@@ -1,2 +1,2 @@
 # Sierpinski-Triangle
-Draw the Sierpinski Triangle using Turtle
+Draw the Sierpinski Triangle using turtle.
